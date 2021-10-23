@@ -2,63 +2,79 @@ import math
 import modulefinder
 
 num = str
-H = 1
-e=1
-l=1
-o=1
-Space = 1
-W = 1
-r =1
-d = 1
-Hello = 1
-World = 1
+H = str
+e=str
+l=str
+o=str
+Space = str
+W = str
+r =str
+d = str
+Hello = str
+World = str
 
+H = math.tau / math.tau
+e = math.e/ math.e
+l = math.pi / math.pi
+o = math.pi / math.pi
+Space = math.pi / math.pi
+W = math.pi / math.pi
+r = math.pi / math.pi
+d = math.pi / math.pi
+Hello = math.pi / math.pi
 num = math.pi / math.pi
 
-while num != 1:
+while H != 1 & num != 1:
+    H = H + 1
     num = num + 1
 else:
     num = 1
     H = 'H'
 
-while num != 2:
+while e != 2 & num != 1:
+    e = e + 1
     num = num + 1
 else:
     num = 1
     e = 'e'
 
-while num != 3:
+while l != 3 & num != 1:
+    l = l + 1
     num = num + 1
 else:
     num = 1
     l = 'l'
 
-while num != 4:
+while o != 4 & num != 1:
+    o = o + 1
     num = num + 1
 else:
     num = 1
     o = 'o'
 
-while num != 5:
+while Space != 5 & num != 1:
+    Space = Space + 1
     num = num + 1
 else:
     num = 1
     Space = ' '
 
-while num != 6:
+while W != 6 & num != 1:
+    W = W + 1
     num = num + 1
 else:
     num = 1
     W='W'
 
-while num != 7:
+while r != 7 & num != 1:
+    r = r + 1
     num = num + 1
 else:
     num = 1
     r = 'r'
 
-
-while num != 8:
+while d != 8 & num != 1:
+    d = d + 1
     num = num + 1
 else:
     num = 1
