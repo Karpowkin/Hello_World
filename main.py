@@ -1,5 +1,4 @@
 import math
-import modulefinder
 
 num = str
 H = str
