@@ -22,58 +22,59 @@ W = math.pi / math.pi
 r = math.pi / math.pi
 d = math.pi / math.pi
 Hello = math.pi / math.pi
+World = math.pi / math.pi
 num = math.pi / math.pi
 
-while H != 1 & num != 1:
+while H != 1 and num != 1:
     H = H + 1
     num = num + 1
 else:
     num = 1
     H = 'H'
 
-while e != 2 & num != 1:
+while e != 2 and num != 1:
     e = e + 1
     num = num + 1
 else:
     num = 1
     e = 'e'
 
-while l != 3 & num != 1:
+while l != 3 and num != 1:
     l = l + 1
     num = num + 1
 else:
     num = 1
     l = 'l'
 
-while o != 4 & num != 1:
+while o != 4 and num != 1:
     o = o + 1
     num = num + 1
 else:
     num = 1
     o = 'o'
 
-while Space != 5 & num != 1:
+while Space != 5 and num != 1:
     Space = Space + 1
     num = num + 1
 else:
     num = 1
     Space = ' '
 
-while W != 6 & num != 1:
+while W != 6 and num != 1:
     W = W + 1
     num = num + 1
 else:
     num = 1
     W='W'
 
-while r != 7 & num != 1:
+while r != 7 and num != 1:
     r = r + 1
     num = num + 1
 else:
     num = 1
     r = 'r'
 
-while d != 8 & num != 1:
+while d != 8 and num != 1:
     d = d + 1
     num = num + 1
 else:
